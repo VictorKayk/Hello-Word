@@ -11,11 +11,12 @@ body{
 main{
     background-color: rgba(255, 255, 255, 0.747);
     padding: 10px;
-    box-shadow: 3px 3px 5px red;
+    box-shadow: 3px 3px 10px red;
     margin: auto;
-    width: 500px;
+    width: 700px;
 }
 
 img.esquerda{
     float: left;
 }
+
